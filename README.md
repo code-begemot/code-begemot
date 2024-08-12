@@ -1,7 +1,5 @@
 ### Обо мне :
-👋 Привет.
-
-Меня зовут Эдгар и я Python Developer
+👋 Привет, меня зовут Эдгар.
 
 ## Образование
 - Инженер-математик по направлению: «Прикладная математика», Уфимский Государственный Авиационный Технический Университет
@@ -16,6 +14,12 @@
 Проживаю в г. Уфа
 
 ## Навыки
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pytest](https://img.shields.io/badge/-pytest-blue?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- Python
+- Git
+- CI/CD (Github Actions)
+- Pytest
+- python-dotenv
+- Poetry
+- Flask
+- Django
+- PostgreSQL 
